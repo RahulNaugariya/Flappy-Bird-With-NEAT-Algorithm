@@ -4,7 +4,7 @@ This project implements the classic Flappy Bird game using the NEAT (NeuroEvolut
 
 # Clone the repository to your local machine:
 ```git
-git clone https://github.com/Shubhampatel001/Flappy-Bird-With-NEAT-Algorithm
+git clone https://github.com/RahulNaugariya/Flappy-Bird-With-NEAT-Algorithm
 ```
 
 
@@ -54,7 +54,6 @@ The feedforward.txt file contains the NEAT configuration parameters. You can adj
 # Additional Folders
 
 
-Documentations: Contains abstracts, references, and notes related to the implementation.
 
 
 Visuals: Includes photos, videos, results, graphs, and block diagrams related to the game.
